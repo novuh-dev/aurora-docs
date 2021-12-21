@@ -25,5 +25,17 @@ Inside `cookies.txt` which may appear as just `cookies` for you if you have file
 Proxies **MUST** be in the `ip:port` format. Any other format results in a crash. HTTP proxies **ONLY**.
 ### What are proxies?
 Proxies are a way to mask your true IP address to bypass ratelimiting.
+### How do I get proxies?
+Aurora *officially* support [Webshare.io](https://www.webshare.io/?referral_code=a73vxuxqdsnb) proxies. Just ensure you're using [IP authorization](https://help.webshare.io/article/21-configure-ip-authorization).
 
 ## Captchas
+*Aurora supports both [2Captcha](http://2captcha.com/?from=9370211) & [Anticaptcha](http://getcaptchasolution.com/rghlcnkarn).*
+### What are captchas used for?
+* Cookie Generator
+* Group Joiner
+* Login2Cookie
+### How do I get a "captcha key"?
+You can go to [2Captcha](http://2captcha.com/?from=9370211) or [Anticaptcha](http://getcaptchasolution.com/rghlcnkarn) to get one.
+
+----
+*This documentation contains links to sites with affiliate URLs, this helps us pay our bills and we appreciate your cooperation.*
