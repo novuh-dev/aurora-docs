@@ -1,5 +1,7 @@
 <img src="https://i.imgur.com/GBQCfb1.png" alt="aurora" width="30"/>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/novuh-dev/aurora-docs?label=last%20updated&style=flat-square)
+
 # Aurora Documentation
 
 *This repository is supposed to help guide you whether you're new to botting, or an experienced botter.*
@@ -54,4 +56,4 @@ You can turn them on like so:
 
 
 ----
-*This documentation contains links to sites with affiliate URLs, this helps us pay our bills and we appreciate your cooperation.* | W.I.P | Updated: 
+*This documentation contains links to sites with affiliate URLs, this helps us pay our bills and we appreciate your cooperation.* | W.I.P 
