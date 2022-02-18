@@ -32,13 +32,13 @@ Aurora *officially* support [Webshare.io](https://www.webshare.io/?referral_code
 ### Where do I put my proxies?
 After verifying their [format](#Proxy-standards-for-Aurora), you can put them in `proxies.txt` which may appear as just `proxies` for you if you have file extensions turned off. *See ["File Extensions"](#File-Extensions)*
 ## Captchas
-*Aurora supports both [2Captcha](http://2captcha.com/?from=9370211) & [Anticaptcha](http://getcaptchasolution.com/rghlcnkarn).*
+*Aurora supports [Anticaptcha](http://getcaptchasolution.com/rghlcnkarn).*
 ### What are captchas used for?
 * Cookie Generator
 * Group Joiner
 * Login2Cookie
 ### How do I get a "captcha key"?
-You can go to [2Captcha](http://2captcha.com/?from=9370211) or [Anticaptcha](http://getcaptchasolution.com/rghlcnkarn) to get one.
+You can go to [Anticaptcha](http://getcaptchasolution.com/rghlcnkarn) to get one.
 
 ## File Extensions
 
